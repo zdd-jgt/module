@@ -1,0 +1,30 @@
+{
+  "name": "module",
+  "version": "1.0.0",
+  "description": "自己做的一些组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdd-jgt/module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdd-jgt/module/issues"
+  },
+  "homepage": "https://github.com/zdd-jgt/module#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "webpack": "^5.18.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "vue": "^2.6.12"
+  }
+}
